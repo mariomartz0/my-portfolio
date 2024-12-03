@@ -416,7 +416,7 @@ h3 {
         width: 100%;
     }
 
-    header .nav-bar ul a.active {
+    header .nav-bar ul.active {
         display: flex;
     }
 
